@@ -3,14 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-ss&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-ss" /> </p>
 
-- 📚 I’m currently learning Java at **Cod3r with Udemy**
+- 📌 I’m currently learning Java at **Cod3r with Udemy**
 - 📚 Also studied JavaScript and front-end languages at **B7Web**
-- 📫 How to reach me **fsdssouza@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fabio-ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="fabio-ss" height="30" width="40" /></a>
-<a href="https://twitter.com/faabioosouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="faabioosouza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fabio-ss" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="fabio-ss" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/faabioosouza" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="faabioosouza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
