@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-ss&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-ss" /> </p>
 
 - 📌 I’m currently learning Java at **Cod3r with Udemy**
-- 📚 Also studied JavaScript and front-end languages at **B7Web**
+- 📚 Also study JavaScript and front-end languages at **B7Web**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
