@@ -31,8 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabio-ss&show_icons=true&locale=en&layout=compact&?theme=tokyonight" alt="fabio-ss" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=tokyonight" alt="fabio-ss" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabio-ss&show_icons=true&theme=tokyonight" alt="fabio-ss" /></p>
