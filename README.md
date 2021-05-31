@@ -6,6 +6,9 @@
 - 📚 I’m currently learning Java at **Cod3r with Udemy**
 - 📚 Also studied JavaScript and front-end languages at **B7Web**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 - 📫 How to reach me **fsdssouza@gmail.com**
 
 <h3 align="left">Connect with me</h3>
