@@ -6,7 +6,7 @@
 - 📌 I’m currently learning Java at **Cod3r with Udemy**
 - 📚 I also study JavaScript and front-end languages at **B7Web**
 
-<img alt="Darth Vader" src="https://media1.tenor.com/images/61ca9c215a517b19d0fff20f75a06eef/tenor.gif?itemid=7373808.gif"/>
+<img alt="Darth Vader" src="https://media1.tenor.com/images/bcc57fab127d1b52b6607cc0f191d10e/tenor.gif?itemid=10788278.gif"/>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
