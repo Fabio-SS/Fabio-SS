@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://about.me/fabiosouza" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"alt="fabiosouza"height="32"/></a> 
+    <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"alt="fabiosouza"height="31"/></a> 
 
   <a href="https://linkedin.com/in/fabio-ss" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabio-ss" height="30"/></a>
