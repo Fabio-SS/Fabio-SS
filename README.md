@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fábio Souza</h1>
-<h3 align="center">A Java student and front-end developer</h3>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h3 align="center">I'm Fabio Souza and thank you for taking the time to view my GitHub Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-ss&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-ss" /> </p>
 
@@ -14,18 +14,18 @@
 <a href="https://linkedin.com/in/fabio-ss" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabio-ss" height="30"/></a>
 
-  <a href="https://twitter.com/faabioosouza" target="blank">
+<a href="https://twitter.com/faabioosouza" target="blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="faabioosouza" height="30"/></a>
 
-
-<a href="hhttps://medium.com/@fabio-ss" target="blank">
+  <a href="https://medium.com/@fabio-ss" target="blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="32"/></a>
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left"> 
-  
- 
+<h3>Languages
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</h3>
+
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/> </a> 
     
