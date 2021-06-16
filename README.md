@@ -10,11 +10,16 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/fabio-ss" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabio-ss" height="30"/></a>
-  
-<a href="https://twitter.com/faabioosouza" target="blank">
+
+  <a href="https://twitter.com/faabioosouza" target="blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="faabioosouza" height="30"/></a>
+
+
+<a href="hhttps://medium.com/@fabio-ss" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="32"/></a>
 </p>
 
 <h3 align="left">Languages</h3>
