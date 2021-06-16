@@ -17,8 +17,11 @@
 <a href="https://twitter.com/faabioosouza" target="blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="faabioosouza" height="30"/></a>
 
-  <a href="https://medium.com/@fabio-ss" target="blank">
+<a href="https://medium.com/@fabio-ss" target="blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="32"/></a>
+
+<a href="https://about.me/fabiosouza" target="blank">
+  <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="fabio-ss" height="32"/></a> 
 </p>
 
 <h2>Languages
