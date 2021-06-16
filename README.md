@@ -1,17 +1,23 @@
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<div align="center">
+<img width="100%" height = "200px" src="https://images2.alphacoders.com/922/922574.jpg" alt="cover" />
+</div>
+
+<h1 align="center"> Hello Fellow < Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+	
 <h3 align="center">I'm Fabio Souza and thank you for taking a time to view my GitHub Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-ss&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-ss" /> </p>
 
-- 📌 I’m currently learning Java.
+- 📌 I'm currently learning Java and increasingly passionate about the language.
+
 - 📚 I also study JavaScript and front-end languages.
 
-<img alt="Darth Vader" src="https://media1.tenor.com/images/bcc57fab127d1b52b6607cc0f191d10e/tenor.gif?itemid=10788278.gif"/>
+- 🚀 My goal is to take flight in the back-end programming area.
   
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://about.me/fabiosouza" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"alt="fabiosouza"height="30"/></a> 
+    <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"alt="fabiosouza"height="32"/></a> 
 
   <a href="https://linkedin.com/in/fabio-ss" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabio-ss" height="30"/></a>
@@ -20,7 +26,7 @@
    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="faabioosouza" height="30"/></a>
 
   <a href="https://medium.com/@fabio-ss" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="30"/></a>
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="32"/></a>
 </p>
 
 <h2>Languages
@@ -40,5 +46,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="32"/> </a> </p>
 
+<h2>Development Tools</h2>
+<p align="left">
+	<a href="https://code.visualstudio.com/" target="_blank"> 
+   	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="32"/></a>
+	<a href="https://www.eclipse.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="32"/></a>
+	<a href="https://www.figma.com/" target="_blank"> 
+	    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="32"/></a>	</p>
+	
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=react" alt="fabio-ss" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabio-ss&show_icons=true&theme=react" alt="fabio-ss" /></p>
