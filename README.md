@@ -1,6 +1,6 @@
 <h1 align="center"> Hello Fellow < Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 	
-<h3 align="center">I'm Fabio Souza and thank you for taking a time to view my GitHub Profile</h3>
+<h3 align="center">I'm Fabio Souza and thank you for taking a time to view my Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-ss&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-ss" /> </p>
 
