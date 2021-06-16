@@ -21,7 +21,7 @@
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="32"/></a>
 
 <a href="https://about.me/fabiosouza" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="fabio-ss" height="32"/></a> 
+  <img align="center" src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="aboutmefabiosouza" height="32"/></a> 
 </p>
 
 <h2>Languages
@@ -30,16 +30,16 @@
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/> </a> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="32"/> </a> 
     
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="30"/> </a> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="32"/> </a> 
   
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="30"/> </a> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="32"/> </a> 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="30"/> </a> </p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="32"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=react" alt="fabio-ss" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabio-ss&show_icons=true&theme=react" alt="fabio-ss" /></p>
