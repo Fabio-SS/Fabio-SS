@@ -42,7 +42,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="32"/> </a> </p>
 
-<h2>Development Tools 🛠️</h2> 
+<h2>Development Tools
+	<img src = "https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/source.gif" width = 50px height="25px">
+</h2> 
 <p align="left">
 	<a href="https://code.visualstudio.com/" target="_blank"> 
    	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="32"/></a>
