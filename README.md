@@ -7,7 +7,7 @@
 - 📚 I also study JavaScript and front-end languages.
 
 <img alt="Darth Vader" src="https://media1.tenor.com/images/bcc57fab127d1b52b6607cc0f191d10e/tenor.gif?itemid=10788278.gif"/>
-
+  
 <h3 align="left">Connect with me</h3>
 <p align="left">
   
