@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "200px" src="https://images2.alphacoders.com/922/922574.jpg" alt="cover" />
-</div>
-
 <h1 align="center"> Hello Fellow < Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 	
 <h3 align="center">I'm Fabio Souza and thank you for taking a time to view my GitHub Profile</h3>
