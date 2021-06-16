@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-ss&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-ss" /> </p>
 
-- 📌 I’m currently learning Java at **Cod3r with Udemy**
-- 📚 I also study JavaScript and front-end languages at **B7Web**
+- 📌 I’m currently learning Java.
+- 📚 I also study JavaScript and front-end languages.
 
 <img alt="Darth Vader" src="https://media1.tenor.com/images/bcc57fab127d1b52b6607cc0f191d10e/tenor.gif?itemid=10788278.gif"/>
 
