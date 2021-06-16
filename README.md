@@ -22,7 +22,7 @@
    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="faabioosouza" height="30"/></a>
 
   <a href="https://medium.com/@fabio-ss" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="32"/></a>
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="fabio-ss" height="31"/></a>
 </p>
 
 <h2>Languages
