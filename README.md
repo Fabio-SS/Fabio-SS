@@ -1,4 +1,4 @@
-<h1 align="center"><img src = "https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width = 50px></h1>
+<h1 align="center"><img src = "https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width = 450px></h1>
 	
 <h3 align="center">I'm Fabio Souza and thank you for taking a time to view my Profile</h3>
 
