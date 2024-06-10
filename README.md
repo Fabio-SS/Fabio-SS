@@ -27,7 +27,7 @@ I love exploring new technology stacks and learning from them.
 
 - 👨🏻‍💻 &nbsp; I like front-end and back-end technology.
 
-- 🚀 &nbsp; My goal is to take flight in the fullstack programming area.
+- 🚀 &nbsp; My goal is to take off as a fullstack developer.
 
 - ❤️ &nbsp; I love technology and its evolution.
 <br><br>
