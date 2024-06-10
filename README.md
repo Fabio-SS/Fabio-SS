@@ -17,7 +17,7 @@ I love exploring new technology stacks and learning from them.
 <br>
 
 <!-- IMAGE -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoYjBkMWwxZnpmMzFubTVkcno2cHI0Z28wMGFxZHh3Nmo0NTBsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="370px"/><br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoYjBkMWwxZnpmMzFubTVkcno2cHI0Z28wMGFxZHh3Nmo0NTBsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" height="280px" /><br>
 
 <!-- ABOUT -->
 ### 🔍 About Me
