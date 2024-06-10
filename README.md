@@ -84,5 +84,5 @@ I love exploring new technology stacks and learning from them.
 
 #
 <!-- STATUS -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fabio-SS&theme=gotham&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=130)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fabio-SS&theme=gotham&date_format=j%20M%5B%20Y%5D&card_width=495&card_height=130)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=gotham" alt="fabio-ss" height="170"/>
