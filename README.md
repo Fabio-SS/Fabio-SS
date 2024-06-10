@@ -34,24 +34,23 @@ I love exploring new technology stacks and learning from them.
 
 <!-- LANGUAGES -->
 ### 📚 Languages
-<!-- LANGUAGES -->
+
 <p>
-<!-- HTML5 -->
+    <!-- HTML5 -->
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/></a>
-<!-- CSS3 -->
+    <!-- CSS3 -->
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="30"/></a>
-<!-- JAVASCRIPT -->
+    <!-- JAVASCRIPT -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="30"/></a>
-<!-- JAVA -->
+    <!-- JAVA -->
     <a href="https://www.java.com" target="_blank"> 
         <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="30"/></a> 
-<!--  -->
+    <!-- PHP -->
     <a href="https://www.php.net/" target="_blank">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30"/></a>
-    
 </p>
 
 ### 🔨 Development Tools
@@ -85,5 +84,5 @@ I love exploring new technology stacks and learning from them.
 
 #
 <!-- STATUS -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fabio-SS&theme=gotham)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=gotham" alt="fabio-ss"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fabio-SS&theme=gotham&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=130)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=gotham" alt="fabio-ss" height="170"/>
