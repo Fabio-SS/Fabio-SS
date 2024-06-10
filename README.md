@@ -31,7 +31,7 @@ I love exploring new technology stacks and learning from them.
 
 - ❤️ &nbsp; I love technology and its evolution.
 <br><br>
-#
+
 <!-- LANGUAGES -->
 ### 📚 Languages
 <!-- LANGUAGES -->
