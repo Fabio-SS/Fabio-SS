@@ -17,7 +17,7 @@ I love exploring new technology stacks and learning from them.
 <br>
 
 <!-- IMAGE -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoYjBkMWwxZnpmMzFubTVkcno2cHI0Z28wMGFxZHh3Nmo0NTBsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/><br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBoYjBkMWwxZnpmMzFubTVkcno2cHI0Z28wMGFxZHh3Nmo0NTBsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="380px"/><br>
 
 <!-- ABOUT -->
 ### 🔍 About Me
@@ -86,4 +86,4 @@ I love exploring new technology stacks and learning from them.
 #
 <!-- STATUS -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fabio-SS&theme=gotham)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=gotham" alt="fabio-ss"  width="335px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=gotham" alt="fabio-ss"/>
