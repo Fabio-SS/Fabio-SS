@@ -21,9 +21,9 @@ I love exploring new technology stacks and learning from them.
 
 <!-- ABOUT -->
 ### 🔍 About Me
-- 📌 &nbsp; I'm Junior Programmer.
+- 🌱 &nbsp; I'm Junior Programmer.
 
-- 🌱 &nbsp; I'm currently focused on learning Java ♨️.
+- 🔭 &nbsp; I'm currently focused on learning Java ♨️.
 
 - 👨🏻‍💻 &nbsp; I like front-end and back-end technology.
 
@@ -88,3 +88,10 @@ I love exploring new technology stacks and learning from them.
 <!-- STATUS -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fabio-SS&theme=gotham&date_format=j%20M%5B%20Y%5D&card_width=495&card_height=130)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ss&layout=compact&theme=gotham" alt="fabio-ss" height="170"/>
+
+#
+### 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&&repo=PetLife)](https://github.com/Fabio-SS/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&&repo=Medicenter-B7Web)](https://github.com/Fabio-SS/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&&repo=todolist-rocketseat)](https://github.com/Fabio-SS/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&&repo=cracha-nlw)](https://github.com/Fabio-SS/github-readme-stats)
