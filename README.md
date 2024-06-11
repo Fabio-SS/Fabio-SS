@@ -91,10 +91,7 @@ I love exploring new technology stacks and learning from them.
 
 #
 ### 📌 Pinned Repositories
-<!-- PETLIFE REPO -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=PetLife)](https://github.com/Fabio-SS/PetLife)
-<!-- PETLIFE REPO -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=Medicenter-B7Web)](https://github.com/Fabio-SS/Medicenter-B7Web)
-<!-- PETLIFE REPO -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=todolist-rocketseat)](https://github.com/Fabio-SS/todolist-rocketseat)
-<!-- PETLIFE REPO -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=cracha-nlw)](https://github.com/Fabio-SS/cracha-nlw)
