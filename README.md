@@ -94,4 +94,4 @@ I love exploring new technology stacks and learning from them.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=PetLife)](https://github.com/Fabio-SS/PetLife)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=Medicenter-B7Web)](https://github.com/Fabio-SS/Medicenter-B7Web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=todolist-rocketseat)](https://github.com/Fabio-SS/todolist-rocketseat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=cracha-nlw)](https://github.com/Fabio-SS/cracha-nlw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fabio-SS&theme=gotham&repo=NLWTogether)](https://github.com/Fabio-SS/NLWTogether)
