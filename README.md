@@ -1,8 +1,11 @@
 # Hey, I'm Fábio!
 <p align="left">
-<!-- LINKEDIN -->
+    <!-- LINKEDIN -->
     <a href="https://linkedin.com/in/fabio-ss" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="fabio-ss" height="30"/></a>
+    <!-- PROFILE DIO -->
+    <a href="https://www.dio.me/users/fsdssouza" target="_blank">
+        <img src="https://img.shields.io/badge/DIO_Profile-EB5465?style=for-the-badge&logo=envato&logoColor=white" alt="faabioosouza" height="30"/></a>
     <!-- X TWITTER -->
     <a href="https://twitter.com/faabioosouza" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/Twitter-000000?style=for-the-badge&logo=xtwitter&logoColor=white" alt="faabioosouza" height="30"/></a>
@@ -48,10 +51,13 @@ I love exploring new technology stacks and learning from them.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="30"/></a>
     <!-- JAVA -->
     <a href="https://www.java.com" target="_blank"> 
-        <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="30"/></a> 
+        <img src="https://custom-icon-badges.demolab.com/badge/Java-E96F00?style=for-the-badge&logo=java&logoColor=black" alt="java" height="30"/></a> 
     <!-- PHP -->
     <a href="https://www.php.net/" target="_blank">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30"/></a>
+    <!-- TYPESCRIPT -->
+    <a href="https://www.php.net/" target="_blank">
+        <img src="https://img.shields.io/badge/typescript-377CC8?style=for-the-badge&logo=typescript&logoColor=white" alt="PHP" height="30"/></a>
 </p>
 
 ### 🔨 Development Tools
